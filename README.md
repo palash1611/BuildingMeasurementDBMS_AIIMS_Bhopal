@@ -12,5 +12,5 @@ The website aims to make data transactions faster and secure. The system will al
 * 1. Open config.php in editable mode.
   2. Change value of DB_SERVER,DB_USERNAME,DB_PASSWORD,DB_DATABASE as per your system's SQL settings.
 
-* Source SQL
-  1.Simply run: source source.sql from your SQL command line.
+* 1. Source SQL
+  2. Simply run: source source.sql from your SQL command line.
