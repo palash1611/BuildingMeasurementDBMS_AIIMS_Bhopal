@@ -4,10 +4,10 @@ The aim of this project was to create a website to access and edit building meas
 
 The website aims to make data transactions faster and secure. The system will also track related expenses. The basic functionalities help authorized users create projects, feed room measurement details and modify them. This helps maintaining records conveniently and makes search more efficient.
 
-##Note:
-###Download and add the project to your PHP folder.
+## Note:
+### Download and add the project to your PHP folder.
 
-###To configure database:
+### To configure database:
 
 *1. Open config.php in editable mode.
 2. Change value of DB_SERVER,DB_USERNAME,DB_PASSWORD,DB_DATABASE as per your system's SQL settings.
